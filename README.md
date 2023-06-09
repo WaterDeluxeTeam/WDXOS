@@ -10,7 +10,7 @@ This is how it works
 
 ```mermaid
 graph LR
-A[Terminal] -- Link text --> B((WDXDOSv2.1))
+A[Terminal] -- Link text --> B((LegacyDOSv2.1))
 A --
 B --> D{WDXOSv1.2.0}
 
